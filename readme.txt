@@ -6,3 +6,4 @@
 "feature-1 second line" 
 "feature-2 firstLine" 
 "Feature-3 firstLine" 
+"feature-4 first line" 
